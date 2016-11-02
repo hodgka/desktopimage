@@ -1,0 +1,23 @@
+what is your gpa?(text box or slider)
+
+what were your 3 favorite classes (text box)
+why? (text box)
+
+did you take the sat, or the sat? (list of checkbox)
+  what was your sat score? (text box)
+  what was your act score?(text box)
+
+what sports did you play in highschool? (list of checkboxes)
+    what level did you play - club, intramural, school,etc?(checkbox)
+    how long did you play?
+
+what other activities did you do? (text box)
+  what level were you at?/ how many hours per week?
+  how long were you doing these activities?
+
+transcript?
+
+
+essays?
+recommendations?
+creative works if necessary?
